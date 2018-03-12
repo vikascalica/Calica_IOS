@@ -20,15 +20,7 @@ class ViewController: UIViewController {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
-//    override func viewDidLayoutSubviews() {
-//   
-//        if btn.frame.size.width < btn.frame.size.height
-//        {
-//            btn.frame.size.width = btn.frame.size.height
-//            btn.layer.cornerRadius = btn.frame.size.height/2
-//            btn.clipsToBounds = true
-//        }
-//    }
+
    
 }
 
