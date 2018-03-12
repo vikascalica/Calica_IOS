@@ -12,6 +12,7 @@
 		B80E9AD42043FD0B001A6DFF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B80E9AD22043FD0B001A6DFF /* Main.storyboard */; };
 		B80E9AD62043FD0B001A6DFF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B80E9AD52043FD0B001A6DFF /* Assets.xcassets */; };
 		B80E9AD92043FD0B001A6DFF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B80E9AD72043FD0B001A6DFF /* LaunchScreen.storyboard */; };
+		B8DF49D92046865900F4208D /* LetsButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8DF49D82046865900F4208D /* LetsButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		B80E9AD52043FD0B001A6DFF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B80E9AD82043FD0B001A6DFF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B80E9ADA2043FD0B001A6DFF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B8DF49D82046865900F4208D /* LetsButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LetsButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				B80E9ACE2043FD0B001A6DFF /* AppDelegate.swift */,
 				B80E9AD02043FD0B001A6DFF /* ViewController.swift */,
+				B8DF49D82046865900F4208D /* LetsButton.swift */,
 				B80E9AD22043FD0B001A6DFF /* Main.storyboard */,
 				B80E9AD52043FD0B001A6DFF /* Assets.xcassets */,
 				B80E9AD72043FD0B001A6DFF /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			files = (
 				B80E9AD12043FD0B001A6DFF /* ViewController.swift in Sources */,
 				B80E9ACF2043FD0B001A6DFF /* AppDelegate.swift in Sources */,
+				B8DF49D92046865900F4208D /* LetsButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -302,6 +306,7 @@
 				B80E9ADF2043FD0C001A6DFF /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
