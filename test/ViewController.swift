@@ -13,7 +13,18 @@ class ViewController: UIViewController {
     @IBOutlet weak var btn: UIButton!
     override func viewDidLoad() {
         super.viewDidLoad()
+    
+        
+        
+        
+    print("test123test")
+        print("test123test")
+        print("test123test")
+        
+        
+        print("123")
 
+        // Do any additional setup after loading the view, typically from a nib.
     }
 
     override func didReceiveMemoryWarning() {
